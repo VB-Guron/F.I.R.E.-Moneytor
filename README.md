@@ -1,7 +1,7 @@
 
 # 🔥F.I.R.E. Moneytor 💵
 
-A mobile application created using flutter. It is used to monitor the user's finacial with guides and assessments in accordance to the "Financial Independence, Retire Early" Methods.
+A mobile application created using flutter. It is used to monitor the user's financial with guides and assessments in accordance with the "Financial Independence, Retire Early" Methods.
 ## Authors
 
 - [Von Bryan Guron](https://github.com/VB-Guron)
