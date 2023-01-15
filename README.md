@@ -5,9 +5,9 @@ A mobile application created using flutter. It is used to monitor the user's fin
 ## Authors
 
 - [Von Bryan Guron](https://github.com/VB-Guron)
-- [Stephen Tan](https://github.com/VB-Guron)
-- [Jeanne Parayno](https://github.com/VB-Guron)
-- [Michael Venegas](https://github.com/VB-Guron)
+- Stephen Tan
+- [Jeanne Parayno](https://github.com/hawknajj)
+- Michael Venegas
 
 
 
